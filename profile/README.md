@@ -6,3 +6,8 @@
 
 > **HAE-RAE**는 영어를 제외한 언어에서 Chain-of-Thought(CoT) 및 Instruction 데이터셋을 구축하는 최초의 연구로 여러 방법론과 원시 말뭉치에 중 가장 성능 향상에 도움이 되는 조합을 발견하는데 초점을 맞출 예정입니다. 해당 연구는 ACL 2024를 목표로 진행되며, 참여자 전원은 기여도에 따라 Gold, Silver, Bronze 티어 contributor로 논문과 프로젝트 홈페이지에 기재될 예정입니다.
 >
+
+### 본 Organization은 Hae-Rae 팀의 Workspace입니다 ###
+### Hae-Rae 프로젝트가 Eleuther AI로 이관함에 따라, output은 다음 레포지토리에 기재될 예정입니다 ###
+
+https://github.com/EleutherAI/hae-rae
