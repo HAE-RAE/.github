@@ -1,6 +1,6 @@
-<h3 align='center'><a href="https://github.com/HAETAE-project">HAETAE PROJECT</a></h3>
+<h3 align='center'><a href="https://github.com/HAETAE-project">HAERAE PROJECT</a></h3>
 
-> **HAE-TAE(HAE-RAE)** 는 instruction-tuning이 적용된 한국어  데이터셋을 구축하는 오픈소스 프로젝트입니다. 
+> **HAE-RAE** 는 instruction-tuning이 적용된 한국어  데이터셋을 구축하는 오픈소스 프로젝트입니다. 
 본 프로젝트에서는 (1) 영문 데이터 번역, (2) LLM을 활용한 synthetic data 생성, (3) 다양한 한국어 코퍼스에서 직접 수집 등 다양한 방법을 사용해 양질의 Chain-of-Thought(CoT) 및 Instruction 데이터셋 **“혜래 (HAE-RAE)”** 를 제작합니다.
 > 
 
