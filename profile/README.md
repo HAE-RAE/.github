@@ -8,5 +8,5 @@
 >
 
 > 본 Organization은 Hae-Rae 팀의 Workspace입니다  
-> Hae-Rae 프로젝트가 Eleuther AI로 이관함에 따라, output은 다음 레포지토리에 기재될 예정입니다  
+> Hae-Rae 프로젝트가 Eleuther AI로 이관함에 따라, output은 다음 레포지토리에 게시될 예정입니다  
 > https://github.com/EleutherAI/hae-rae
