@@ -17,7 +17,7 @@ With cooperation with [KISTI-KONI](https://huggingface.co/KISTI-KONI) we release
 
 
 # News
-2026.01.08: We release [HAERAE-VISION](https://huggingface.co/datasets/HAERAE-HUB/HAERAE-VISION), Korean real-world VLM benchmark 🔥🔥🔥
+2025.01.08: We release [HAERAE-VISION](https://huggingface.co/datasets/HAERAE-HUB/HAERAE-VISION), Korean real-world VLM benchmark  🔥🔥🔥  
 2025.08.31: We release six [KO-REAson-0831 models](https://huggingface.co/collections/KoReason/koreason-0831-68b1363e1b3726b041a0a638)  🔥🔥🔥  
 2025.07.11: We've collaborated with LG AI Research to build [KMMLU-PRO](https://huggingface.co/datasets/LGAI-EXAONE/KMMLU-Pro) an major update to our KMMLU franchise.  
 2025.01.05: We are releasing the first public korean math (📐e = ∑∞ⁿ⁼⁰ ¹ₙ🤓) benchmark [HRM8K](https://huggingface.co/datasets/HAERAE-HUB/HRM8K)  
